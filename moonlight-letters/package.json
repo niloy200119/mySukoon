@@ -1,0 +1,9 @@
+{
+  "name": "mysukoon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "mySukoon — a personalized romantic web app for Mimi",
+  "engines": {
+    "node": ">=18"
+  }
+}
